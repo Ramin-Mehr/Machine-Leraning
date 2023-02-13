@@ -1,5 +1,4 @@
-
-**CCP (Churn Customer Prediction):**
+CCP (Churn Customer Prediction):
 
 The chosen dataset from Kaggle is a great resource for predicting customer churn in the telco industry. It contains 7,000 records and 20 features that can be used to analyze customer behavior and identify those at risk of churning. The target feature of the dataset is the "Churn" column which contains either "Yes" or "No" values indicating whether or not the customer has churned. With this dataset, we can apply various Machine Learning algorithms to predict customer churn and develop strategies to retain customers.
 
@@ -9,6 +8,6 @@ One of the most common algorithms used in this dataset is Decision Tree. Decisio
 
 Different ML classification techniques, including Decision Tree, SVM, Gaussian Naive Bayes, Logistic Regression and Random Forest, were tested for this aim. Each approach has advantages and disadvantages, and using various measurement criteria, we will select one of them and provide our hypothesis.
 
-**Dataset Download link:**
+Dataset Download link:
 
 https://drive.google.com/drive/folders/1tVeHMCC-L7UBGAf5vRRHrLr8qhdkKtRs
